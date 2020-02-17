@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SENG-513-calculator/precache-manifest.cecaea2b7464993681e2cb39bc0b0541.js"
+  "/SENG-513-Calculator/precache-manifest.922a200b5d06553c7c964df26fcef84f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/SENG-513-calculator/index.html", {
+workbox.routing.registerNavigationRoute("/SENG-513-Calculator/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

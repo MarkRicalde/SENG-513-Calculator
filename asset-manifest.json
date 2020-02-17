@@ -1,13 +1,13 @@
 {
-  "main.css": "/SENG-513-calculator/static/css/main.a410c2e5.chunk.css",
-  "main.js": "/SENG-513-calculator/static/js/main.2530d8df.chunk.js",
-  "main.js.map": "/SENG-513-calculator/static/js/main.2530d8df.chunk.js.map",
-  "static/js/1.838c91a7.chunk.js": "/SENG-513-calculator/static/js/1.838c91a7.chunk.js",
-  "static/js/1.838c91a7.chunk.js.map": "/SENG-513-calculator/static/js/1.838c91a7.chunk.js.map",
-  "runtime~main.js": "/SENG-513-calculator/static/js/runtime~main.2a4933dc.js",
-  "runtime~main.js.map": "/SENG-513-calculator/static/js/runtime~main.2a4933dc.js.map",
-  "static/css/main.a410c2e5.chunk.css.map": "/SENG-513-calculator/static/css/main.a410c2e5.chunk.css.map",
-  "index.html": "/SENG-513-calculator/index.html",
-  "precache-manifest.cecaea2b7464993681e2cb39bc0b0541.js": "/SENG-513-calculator/precache-manifest.cecaea2b7464993681e2cb39bc0b0541.js",
-  "service-worker.js": "/SENG-513-calculator/service-worker.js"
+  "main.css": "/SENG-513-Calculator/static/css/main.a410c2e5.chunk.css",
+  "main.js": "/SENG-513-Calculator/static/js/main.62f62c1a.chunk.js",
+  "main.js.map": "/SENG-513-Calculator/static/js/main.62f62c1a.chunk.js.map",
+  "static/js/1.838c91a7.chunk.js": "/SENG-513-Calculator/static/js/1.838c91a7.chunk.js",
+  "static/js/1.838c91a7.chunk.js.map": "/SENG-513-Calculator/static/js/1.838c91a7.chunk.js.map",
+  "runtime~main.js": "/SENG-513-Calculator/static/js/runtime~main.0c24a66f.js",
+  "runtime~main.js.map": "/SENG-513-Calculator/static/js/runtime~main.0c24a66f.js.map",
+  "static/css/main.a410c2e5.chunk.css.map": "/SENG-513-Calculator/static/css/main.a410c2e5.chunk.css.map",
+  "index.html": "/SENG-513-Calculator/index.html",
+  "precache-manifest.922a200b5d06553c7c964df26fcef84f.js": "/SENG-513-Calculator/precache-manifest.922a200b5d06553c7c964df26fcef84f.js",
+  "service-worker.js": "/SENG-513-Calculator/service-worker.js"
 }
